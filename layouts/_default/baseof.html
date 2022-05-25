@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="ja">
+    {{ partial "meta.html" . }}
+    <body>
+        <!-- Google Tag Manager (noscript) -->
+        <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PXPVXGR"
+            height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+        <!-- End Google Tag Manager (noscript) -->
+        <div class="container--outer">
+            <header>
+                <nav class="nav-menu">
+                <div><h1 class="site-title"><a href="{{ .Site.BaseURL }}">{{ .Site.Params.Title }}</a></h1></div>
+                <div class="descri">{{ .Site.Params.description }}</div>
+                <hr>
+                </nav>
+            </header>
+            <article>
+                <div>
+                    {{- block "main" . }}{{- end }}
+                </div>
+            </article>
+            {{ partial "footer.html" . }}
+        </div>
+    </body>
+</html>

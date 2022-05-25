@@ -1,0 +1,27 @@
+baseURL = "https://example.com/"
+languageCode = "ja"
+
+[params]
+title = "Simple Life"
+description = "シンプルな人生を目指す記録"
+images = ["images/logo-worklifefun.png"]
+copyright = "Simple Life"
+
+[taxonomies]
+category = "categories"
+tag = "tags"
+
+[markup.goldmark.renderer]
+unsafe = true
+
+[menu]
+  [[menu.main]]
+    identifier = ""
+    name = "Home"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about"
+    weight = 2

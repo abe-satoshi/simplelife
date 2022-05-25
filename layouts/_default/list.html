@@ -1,0 +1,31 @@
+{{ define "main" }}
+<section class="top">
+	{{ $paginator := .Paginate (where .Site.Pages ".Params.type" "post") 10 }}
+	{{ range $paginator.Pages }}
+		<div class="flexbox">
+			<!-- アイキャッチが設定されていなければ読み込まない -->
+			{{ if and (.Params.image) (ne .Params.image "") }}
+			<div class="waku hidariwaku image-waku center">
+				<a class="ihover image-waku" href="{{ .Permalink }}"><img src="{{ .Params.image }}" alt="" width="200"/></a>
+			</div>
+			{{ end }}
+			<div class="waku">
+				<h1><a href="{{ .Permalink }}">{{ .Title }}</a></h1>
+				<!-- 自動で要約を出す場合 -->
+				<p>{{ substr .Summary 0 50 }}.....</p>
+				<!-- moreで出す場合 -->
+				<!-- <p>{{ .Summary}}</p> -->
+				<div class="dateon">{{ .Lastmod.Format "2006-01-02" }}</div>
+				{{ with .Params.categories }}
+				<div class="bunrui">{{ range . }}
+					<a href="/categories/{{ lower . }}/">#{{ . }}</a>
+				{{ end }}
+				</div>
+				{{ end }}
+			</div>
+		</div>
+	<hr>
+	{{ end }}
+</section>
+{{ partial "top-pagination.html" . }}
+{{ end }}

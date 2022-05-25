@@ -1,0 +1,17 @@
+<div class="pagebox">
+	<div>
+		{{ if .Paginator.HasPrev }}
+		<a class="btn" href="{{.Paginator.Prev.URL}}" > << </a>
+		{{ else }}
+		<span class="disable-btn"> << </span>
+		{{ end }}
+	</div>
+	<div>{{.Paginator.PageNumber}}/{{.Paginator.TotalPages}}</div>
+	<div>
+		{{ if .Paginator.HasNext }}
+		<a class="btn" href="{{.Paginator.Next.URL}}"> >></a>
+		{{ else }}
+		<span class="disable-btn"> >> </span>
+		{{ end }}
+	</div>
+</div>

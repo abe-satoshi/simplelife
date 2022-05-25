@@ -1,0 +1,12 @@
+{{ if or ( .PrevInSection ) ( .NextInSection ) }}
+    <div class="pagebox">
+      {{ if .NextInSection }}
+      <a class="btn" href="{{ .NextInSection.Permalink | relLangURL }}">前の記事へ</a>
+      {{ else }}
+		  <span class="disable-btn">前の記事へ</span>
+      {{ end }}
+      {{ if .PrevInSection }}
+        <a class="btn" href="{{ .PrevInSection.Permalink | relLangURL }}">次の記事へ</a>
+      {{ end }}
+    </div>
+{{ end }}

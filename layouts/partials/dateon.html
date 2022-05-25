@@ -1,0 +1,23 @@
+{{ if ne .Params.dateon false }}
+
+<div class="dateon">
+	<div class="dateon-item">作成： <time datetime="{{ .Date.Format "2006-01-02T15:04:05JST" }}">{{ .Date.Format ( .Site.Params.dateformat | default "2006-01-02") }}</time></div>
+{{ if ne .Date .Lastmod }}
+	<div class="dateon-item">更新： <time datetime="{{ .Lastmod.Format "2006-01-02T15:04:05JST" }}">{{ .Lastmod.Format ( .Site.Params.dateformat | default "2006-01-02") }}</time></div>
+	{{ end }}
+</div>
+{{ end }}
+
+{{ with .Params.categories }}
+<div class="bunrui">カテゴリー：{{ range . }}
+	<a href="/categories/{{ lower . }}/">{{ . }}</a>
+{{ end }}
+</div>
+{{ end }}
+
+{{ with .Params.tags }}
+<div class="bunrui">タグ：{{ range . }}
+	<a href="/tags/{{ lower . }}/">{{ . }}</a>
+{{ end }}
+</div>
+{{ end }}
