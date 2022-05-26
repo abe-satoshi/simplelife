@@ -4,8 +4,8 @@
     <div class="flexbox">
         <!-- アイキャッチが設定されていなければ読み込まない -->
         {{ if and (.Params.image) (ne .Params.image "") }}
-        <div class="waku hidariwaku">
-            <a class="ihover" href="{{ .Permalink }}"><img src="{{ .Params.image }}" alt="" width="200"/></a>
+        <div class="waku hidariwaku image-waku center">
+            <a class="ihover image-waku" href="{{ .Permalink }}"><img src="{{ .Params.image }}" alt="" width="200"/></a>
         </div>
         {{ end }}
         <div class="waku">
