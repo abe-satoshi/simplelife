@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on </title>
+    <link>https://abe-satoshi.github.io/simplelife/categories/</link>
+    <description>Recent content in Categories on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Sun, 23 May 2021 09:00:47 +0000</lastBuildDate><atom:link href="https://abe-satoshi.github.io/simplelife/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Markdown</title>
+      <link>https://abe-satoshi.github.io/simplelife/categories/markdown/</link>
+      <pubDate>Sun, 23 May 2021 09:00:47 +0000</pubDate>
+      
+      <guid>https://abe-satoshi.github.io/simplelife/categories/markdown/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>名言</title>
+      <link>https://abe-satoshi.github.io/simplelife/categories/%E5%90%8D%E8%A8%80/</link>
+      <pubDate>Sat, 16 May 2020 09:00:47 +0000</pubDate>
+      
+      <guid>https://abe-satoshi.github.io/simplelife/categories/%E5%90%8D%E8%A8%80/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>門司</title>
+      <link>https://abe-satoshi.github.io/simplelife/categories/%E9%96%80%E5%8F%B8/</link>
+      <pubDate>Fri, 09 Nov 2018 09:00:47 +0000</pubDate>
+      
+      <guid>https://abe-satoshi.github.io/simplelife/categories/%E9%96%80%E5%8F%B8/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>小倉</title>
+      <link>https://abe-satoshi.github.io/simplelife/categories/%E5%B0%8F%E5%80%89/</link>
+      <pubDate>Wed, 07 Nov 2018 09:00:47 +0000</pubDate>
+      
+      <guid>https://abe-satoshi.github.io/simplelife/categories/%E5%B0%8F%E5%80%89/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>なぞなぞ</title>
+      <link>https://abe-satoshi.github.io/simplelife/categories/%E3%81%AA%E3%81%9E%E3%81%AA%E3%81%9E/</link>
+      <pubDate>Sun, 01 Apr 2018 09:00:47 +0000</pubDate>
+      
+      <guid>https://abe-satoshi.github.io/simplelife/categories/%E3%81%AA%E3%81%9E%E3%81%AA%E3%81%9E/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

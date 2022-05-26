@@ -1,5 +1,8 @@
-baseURL = "https://example.com/"
+baseURL = "https://abe-satoshi.github.io/simplelife/"
 languageCode = "ja"
+
+canonifyurls = true
+publishDir = "docs"
 
 [params]
 title = "Simple Life"

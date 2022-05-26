@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on </title>
+    <link>https://abe-satoshi.github.io/simplelife/posts/</link>
+    <description>Recent content in Posts on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Sun, 23 May 2021 09:00:47 +0000</lastBuildDate><atom:link href="https://abe-satoshi.github.io/simplelife/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Markdownの書き方</title>
+      <link>https://abe-satoshi.github.io/simplelife/posts/markdown-example/</link>
+      <pubDate>Sun, 23 May 2021 09:00:47 +0000</pubDate>
+      
+      <guid>https://abe-satoshi.github.io/simplelife/posts/markdown-example/</guid>
+      <description>ブログでも仕事でも、Markdownが使えると便利。自分の備忘録を兼ねて。
+
+出典：Wikimedia Commons
+見出し   「#」の後に空白でタイトル、「#」の数で異なる # タイトル h1 ## タイトル h2 ### タイトル h3 #### タイトル h4   SEOの観点から、ブログのタイトルはh1、記事は、h2、Markdownでは「##」から使うのが一般的。
+リスト・箇条書き Markdown、HTMLで書いた場合の比較
+  箇条書きは「-」の後に空白 - リスト - リスト 数字付きの箇条書きは「数字」の後に空白 1. リスト 2. リスト 1を続けても自動でカウントしてくれる 1. リスト 1. リスト   1つ目が黒丸、2つ目が白丸
+ リスト  リスト リスト   リスト リスト  リスト リスト    1つ目が黒丸、2つ目が数字
+ リスト リスト  リスト リスト    1つ目が数字、2つ目も数字</description>
+    </item>
+    
+    <item>
+      <title>愚者は経験に学び、賢者は歴史に学ぶ</title>
+      <link>https://abe-satoshi.github.io/simplelife/posts/bismarck/</link>
+      <pubDate>Sat, 16 May 2020 09:00:47 +0000</pubDate>
+      
+      <guid>https://abe-satoshi.github.io/simplelife/posts/bismarck/</guid>
+      <description>ビスマルクの名言。
+ 愚者は経験に学び、賢者は歴史に学ぶ
+ 経験や実績を売りにする人は多いけど、それは単なる個人の経験に過ぎない。
+歴史は回っている、と感じることが多い。
+だから歴史を学ぶ。
+賢者と呼ばれることになったら、人生の終わりの瞬間に最高の人生だったと言えるだろうか？</description>
+    </item>
+    
+    <item>
+      <title>関門橋</title>
+      <link>https://abe-satoshi.github.io/simplelife/kanmonkyo/</link>
+      <pubDate>Fri, 09 Nov 2018 09:00:47 +0000</pubDate>
+      
+      <guid>https://abe-satoshi.github.io/simplelife/kanmonkyo/</guid>
+      <description>子供の頃から、関門橋や関門トンネルの話をよく聞いていた。
+大人になり、車に乗るようになって、自由に行くことができるようになったが、今でも車で通るとワクワクする。
+ </description>
+    </item>
+    
+    <item>
+      <title>高級「生」食パン専門店 in 小倉</title>
+      <link>https://abe-satoshi.github.io/simplelife/nogami/</link>
+      <pubDate>Wed, 07 Nov 2018 09:00:47 +0000</pubDate>
+      
+      <guid>https://abe-satoshi.github.io/simplelife/nogami/</guid>
+      <description>小倉に販売店があるということで、食パンをプレゼントされた。
+恥ずかしながら知らなかったが、高級「生」食パン専門店の「乃が美」は有名らしい。
+ 切るのではなくちぎって、そして焼かずに食べるらしい。
+ 日本の食パン、名品10本に選ばれたらしい。母数がわからないのでなんとも言えないが。
+ 乃が美（はなれ小倉販売店）ウェブサイト：http://nogaminopan.com/shop/kokura/</description>
+    </item>
+    
+    <item>
+      <title>うそつきの天使ってなに？</title>
+      <link>https://abe-satoshi.github.io/simplelife/not-angel/</link>
+      <pubDate>Sun, 01 Apr 2018 09:00:47 +0000</pubDate>
+      
+      <guid>https://abe-satoshi.github.io/simplelife/not-angel/</guid>
+      <description>「天使は天使でも、うそつきの天使は？？？」
+答えを聞いて、思わず唸ってしまった。
+メモをしてしまい、こんな記事にもしてしまった。
+こういうのをとっさに言える機転があったら、営業に役立つかも。
+どうだろう？
+ちなみに、答えは「ぺてん師」</description>
+    </item>
+    
+    <item>
+      <title>基本と原則に反するものは例外なく時を経ずに破綻する</title>
+      <link>https://abe-satoshi.github.io/simplelife/basics-and-principle-by-drucker/</link>
+      <pubDate>Thu, 01 Feb 2018 09:00:47 +0000</pubDate>
+      
+      <guid>https://abe-satoshi.github.io/simplelife/basics-and-principle-by-drucker/</guid>
+      <description>社会人必読の書と言えば必ず挙げられるのが、ピーター・ドラッカー。
+何度も読んでいるが、読む度に発見がある。
+多くの名言の中で、特に印象に残っており、心に刻んでいるのが以下の言葉。
+ 基本と原則に反するものは例外なく時を経ずに破綻する
+ 奇抜な発言・イベントを行い目立つことを最優先とする同業者もいて、自分もそうすべきなのでは、と悩むことは正直ある。
+しかし、1人ひとりの顧客に真摯に向き合い、地道に業務を行う、そして
+悩んだときは「基本と原則」に立ち返る
+肝に命じておきたい。</description>
+    </item>
+    
+    <item>
+      <title>リーダーシップは時代遅れ？</title>
+      <link>https://abe-satoshi.github.io/simplelife/past-leadership/</link>
+      <pubDate>Fri, 01 Dec 2017 09:00:47 +0000</pubDate>
+      
+      <guid>https://abe-satoshi.github.io/simplelife/past-leadership/</guid>
+      <description>リーダー・リーダーシップについて語る人は多い。
+教育、政治、ゴルフ、語りたがる、教えたがる人は様々。
+リンダ グラットン教授の「未来企業 ─ レジリエンスの経営とリーダーシップ」の中で紹介されていたバーバラ・ケラーマン教授による以下の言葉は考えさせられる。
+ リーダーシップは時代遅れとなる危険性がある。リーダーが時代遅れになるのではない。
+リーダーはいつの世にも存在するが、フォロワーシップより重要な存在としてのリーダーシップはもう古いのである。
+ フォロワーがいなければリーダーなんてただの変人。
+そして、多くの変人は、ただの変人で人生を終わっているのに違いない。
+フォロワーをまとめ上げることができるリーダーシップとは、
+ フォロワーがついていきたくなるような人間臭さ  を持つことなのかもしれなせい。</description>
+    </item>
+    
+    <item>
+      <title>ギャンブルはやらない、だって人生がギャンブルだから</title>
+      <link>https://abe-satoshi.github.io/simplelife/gamble-life/</link>
+      <pubDate>Wed, 01 Nov 2017 09:00:47 +0000</pubDate>
+      
+      <guid>https://abe-satoshi.github.io/simplelife/gamble-life/</guid>
+      <description>日米通算2000本安打を達成した福留孝介選手の名言。
+ 俺はギャンブルはやらないよ。だって、人生がギャンブルだから
+ 競馬、競輪、パチンコ、私もギャンブルにまったく興味はない。
+学生時代にハマったのは将棋。
+きちんと勉強すれば実力がつき、勝つことができる。
+運だけに支配されるのではなく、勝つべくして勝つ、それが成長だろう。
+安定していたサラリーマンの仕事を辞め、自営業になって、ますますその気持ちが強くなっている。
+一度しかない人生、常にチャレンジし続けたいものである。
+参考：福留孝介の決断1つ1つに敬意を。2000本の陰に何を捨ててきたのか</description>
+    </item>
+    
+    <item>
+      <title>門司の九州鉄道記念館</title>
+      <link>https://abe-satoshi.github.io/simplelife/railroad-memory/</link>
+      <pubDate>Wed, 23 Aug 2017 09:00:47 +0000</pubDate>
+      
+      <guid>https://abe-satoshi.github.io/simplelife/railroad-memory/</guid>
+      <description>以前から行きたかった門司の九州鉄道記念館にようやく行けた。
+ SLって、無骨なところがかっこいい。乗るとうるさいんだろうけど。
+ 子供の頃に見ていた記憶がある。
+ 昔は日常の中にたばこがあった。
+ </description>
+    </item>
+    
+  </channel>
+</rss>

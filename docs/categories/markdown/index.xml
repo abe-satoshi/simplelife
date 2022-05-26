@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Markdown on </title>
+    <link>https://abe-satoshi.github.io/simplelife/categories/markdown/</link>
+    <description>Recent content in Markdown on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Sun, 23 May 2021 09:00:47 +0000</lastBuildDate><atom:link href="https://abe-satoshi.github.io/simplelife/categories/markdown/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Markdownの書き方</title>
+      <link>https://abe-satoshi.github.io/simplelife/posts/markdown-example/</link>
+      <pubDate>Sun, 23 May 2021 09:00:47 +0000</pubDate>
+      
+      <guid>https://abe-satoshi.github.io/simplelife/posts/markdown-example/</guid>
+      <description>ブログでも仕事でも、Markdownが使えると便利。自分の備忘録を兼ねて。
+
+出典：Wikimedia Commons
+見出し   「#」の後に空白でタイトル、「#」の数で異なる # タイトル h1 ## タイトル h2 ### タイトル h3 #### タイトル h4   SEOの観点から、ブログのタイトルはh1、記事は、h2、Markdownでは「##」から使うのが一般的。
+リスト・箇条書き Markdown、HTMLで書いた場合の比較
+  箇条書きは「-」の後に空白 - リスト - リスト 数字付きの箇条書きは「数字」の後に空白 1. リスト 2. リスト 1を続けても自動でカウントしてくれる 1. リスト 1. リスト   1つ目が黒丸、2つ目が白丸
+ リスト  リスト リスト   リスト リスト  リスト リスト    1つ目が黒丸、2つ目が数字
+ リスト リスト  リスト リスト    1つ目が数字、2つ目も数字</description>
+    </item>
+    
+  </channel>
+</rss>
