@@ -1,8 +1,8 @@
 ---
-title: Markdownの書き方
+title: Markdownの書き方：備忘録
 type: post
 date: 2021-05-23T09:00:47+00:00
-lastmod: 2022-05-24T09:00:47+00:00
+lastmod: 2022-05-01T09:00:47+00:00
 url: /posts/markdown-example/
 image: /images/markdown-mark.png
 categories:
