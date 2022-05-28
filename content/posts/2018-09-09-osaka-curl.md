@@ -2,7 +2,7 @@
 title: 大阪のカールおじさん
 type: post
 date: 2018-09-09T09:00:47+00:00
-url: /nogami/
+url: /osaka-curl/
 image: /images/2018-09-09-osaka.jpg
 categories:
 - 大阪
