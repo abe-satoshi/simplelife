@@ -48,7 +48,7 @@ a {
 
 a:hover {
   color        : #0c8346;
-  border-bottom: 1px solid #0c8346;
+  /* border-bottom: 1px solid #0c8346; */
 }
 
 ol,
@@ -123,6 +123,10 @@ figure img {
 .top a,
 .nav-menu a {
   color: #333;
+}
+
+.top a:hover{
+  color: #0c8346;
 }
 
 .image-waku {
